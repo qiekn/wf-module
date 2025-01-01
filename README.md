@@ -1,7 +1,7 @@
-# Официальный репозиторий GitHub сообщества WARFACE \[MODULE\]
+# WARFACE \[MODULE\] 社区的官方 GitHub 仓库
 
-Здесь вы можете найти инструкции и гайды моддингу Warface с использованием CryEngine и других инструментов.
+在这里，你可以找到有关使用 CryEngine 和其他工具对 Warface 进行模组制作的说明和指南。
 
-Ссылка на автора репозитория: https://github.com/wfom
+Github 仓库作者链接：https://github.com/wfom
 
-Ссылка на сообщество: https://t.me/+ASA1xbLPnIQ0ZDUy
+Telegram 频道链接：https://t.me/+ASA1xbLPnIQ0ZDUy
