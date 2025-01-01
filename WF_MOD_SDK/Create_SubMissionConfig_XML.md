@@ -1,1 +1,1 @@
-Скоро здесь появится инструкция по созданию файла submissionconfig.xml
+很快将提供关于如何创建文件 submissionconfig.xml 的说明
